@@ -1,0 +1,6 @@
+name: Groups
+version: '${project.version}'
+main: com.dxzell.groups.Groups
+api-version: 1.20
+commands:
+  legendgroup:
